@@ -19,6 +19,15 @@ This project focuses on analyzing the restaurant landscape using Zomato's datase
 3. **Price Segmentation:** Grouped restaurants into buckets based on average cost for two to identify market gaps.
 4. **Rating Analysis:** Correlated table booking availability with higher average customer ratings (e.g., 3.9/5 vs 3.7/5).
 
+### 🔍 Strategic Business Insights
+
+Based on the 18+ KPIs analyzed, here are the top findings:
+
+* **Market Expansion Opportunity:** While India has the highest restaurant count in the dataset, only ~26% of these outlets offer online delivery. This represents a massive untapped market for delivery infrastructure growth.
+* **Cuisine Dominance:** North Indian cuisine is the most frequently listed, indicating high demand but also high competition for new entrants in this category.
+* **Service vs. Satisfaction:** There is a clear correlation between service offerings and customer sentiment; restaurants offering table bookings maintain a higher average rating (3.9/5) compared to those without (3.7/5).
+* **Pricing Strategy:** By segmenting restaurants by the "average cost for two," I identified specific price brackets that are currently underserved in high-traffic geographic zones.
+
 ### 🖼️ Dashboard Gallery
 
 #### Power BI Dashboard
