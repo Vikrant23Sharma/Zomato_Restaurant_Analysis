@@ -20,7 +20,7 @@ This project focuses on analyzing the restaurant landscape using Zomato's datase
 4. **Rating Analysis:** Correlated table booking availability with higher average customer ratings (e.g., 3.9/5 vs 3.7/5).
 
 ### 🖼️ Dashboard Gallery
-*(Upload your screenshots to GitHub first, then use the code below)*
+
 #### Power BI Dashboard
 ![Zomato Power BI](PowerBi_Dashbboard.png)
 
