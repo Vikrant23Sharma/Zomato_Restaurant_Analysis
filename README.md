@@ -34,7 +34,7 @@ Based on the 18+ KPIs analyzed, here are the top findings:
 ![Zomato Power BI](PowerBi_Dashbboard.png)
 
 #### Tableau Visualization
-![Zomato Tableau](Zomato_Tableau_Screenshot.png)
+![Zomato Tableau](Tableau_Dashboard.png)
 
 #### Excel Visualization
 ![Zomato Excel](Excel_Zomato_Dashboard.png)
